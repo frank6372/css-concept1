@@ -1,0 +1,140 @@
+.colors-container {
+    border: 2px solid black;
+       position: relative;
+       height: 300px;
+       display: flex;
+       padding: 100px 150px;
+       background-color: gray;
+       font-family: Arial, Helvetica, sans-serif;
+       bottom:120px;
+       right: 120px;
+       width:100%;
+
+       }
+
+.cool-blue {
+    background-color: #2d5dcc;
+    text-align:center;
+    position: absolute;
+    top: 90px;
+    width:25%;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+.pink {
+    background-color: pink;
+    text-align:center;
+    position: absolute;
+    width:25%;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 90px;
+    right:45%;
+    margin-left:0px;
+}
+.green {
+    background-color: #4fe0b0;
+    text-align:center;
+    position: absolute;
+    width:25%; 
+    top: 90px;
+    right: 15%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.beige {
+    background-color: #efd9ca;
+    text-align:center;
+    position: absolute;
+    width:25%;
+    right: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 240px;
+    left: 7px;
+}
+
+
+.source-code {
+    position: relative;
+    left:100px;
+    bottom:5px;
+    font-family: 'Source Code Pro';
+}
+.font-container {
+    border: 2px solid black;
+       position: relative;
+       height: 200px;
+       display: flex;
+       padding: 100px 150px;
+       background-color: gray;
+       font-family: Arial, Helvetica, sans-serif;
+       bottom:120px;
+       right: 120px;
+       width:100%;
+}
+
+.poppins {
+   
+   position: relative;
+   left: 600px;
+    bottom:150px;
+    font-family: Poppins;
+    
+}
+
+.nunito {
+   
+   position: relative;
+   left: 400px
+
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+* {
+    color:azure;
+}
+
+.text-styles {
+    border: 2px solid black;
+       position: relative;
+       height: 200px;
+       display: flex;
+       padding: 100px 150px;
+       background-color: gray;
+       font-family: Arial, Helvetica, sans-serif;
+       bottom:120px;
+       right: 120px;
+       width:100%;
+}
+
+.h1 {
+position: relative;
+left: 200px;
+font-weight: bold;
+font-size: 26px;
+font-family:Nunito sans;
+bottom: 30px
+}
+
+
+.h2 {
+    position: relative;
+    left: 400px;
+    font-weight: 500;
+    font-size: 18px;
+    font-family: Poppins;
+}
+
+.p {
+    position: relative;
+    top:20px;
+    left: 700px;
+    font-weight: 400;
+    font-size:14px;
+    font-family: Poppins;
+}
